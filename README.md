@@ -1,7 +1,6 @@
-# FullStack-Vite-Node-Express-Template
+# Docker-Vite-Node-Express-Template
 
-**FullStack-Vite-Node-Express-Template** es una plantilla para proyectos full stack que utiliza Docker para facilitar la configuración y el uso de desarrollo. 
-Este proyecto incluye un entorno backend con Node.js y Express, y un frontend con Vite y TSX.
+**Docker-Vite-Node-Express-Template** es una plantilla de Docker para un proyecto full stack. Utiliza Docker para facilitar la configuración y el desarrollo de aplicaciones. Este proyecto incluye un backend con Node.js y Express (JavaScript Vanilla) y un frontend con Vite y TSX.
 
 ## Requisitos
 
