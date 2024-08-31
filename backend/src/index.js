@@ -15,6 +15,11 @@ app.get('/', function (_req, res) {
   res.send('hello world');
 });
 
+app.get('/random-boolean', (_req, res) => {
+  const randomBoolean = Math.random() > 0.5;
+  res.json({ value: randomBoolean });
+});
+
 const port = 8080;
 
 app.listen(port, () => {
